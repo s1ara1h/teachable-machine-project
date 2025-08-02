@@ -1,9 +1,0 @@
-# Teachable Machine Projects
-
-This repository contains image classification models built using [Teachable Machine](https://teachablemachine.withgoogle.com/).
-
-Projects include:
-- Kidney CT image classification (Normal, Cyst, Tumor, Stone)
-
-
-
