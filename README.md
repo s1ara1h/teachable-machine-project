@@ -60,16 +60,20 @@ Precise tumor detection with confidence score.
 
 ## 🛠️ Tools
 
-- Teachable Machine  
+- Teachable Machine
+- TensorFlow/Keras
+- Google Colab
 
 ---
 
 ## 🚀 Usage
+Google Colab (Recommended)
+1. Upload your trained model (.h5 file) when prompted
+2. Upload kidney ultrasound images for classification
+3. View results with confidence scores and visual charts
 
-1. Visit the [Teachable Machine project](https://teachablemachine.withgoogle.com/)  
-2. Upload a kidney ultrasound image  
-3. View the classification results with confidence scores
-
+Example Output
+![Stone](results/Stone.png)  
 ---
 
 ## 📝 Notes
