@@ -1,7 +1,6 @@
 # 🧠 Kidney Classification using Teachable Machine
 
 This project applies image classification to detect four kidney conditions using Google's Teachable Machine.  
-It was implemented as part of a data analysis and AI training program.
 
 ---
 
@@ -68,9 +67,9 @@ Precise tumor detection with confidence score.
 
 ## 🚀 Usage
 Google Colab (Recommended)
-1. Upload your trained model (.h5 file) when prompted
-2. Upload kidney ultrasound images for classification
-3. View results with confidence scores and visual charts
+1. Upload your trained model (.h5 file).
+2. Upload kidney ultrasound images for classification.
+3. View results with confidence scores and visual charts.
 
 Example Output
 ![Stone](results/Stone.png)  
